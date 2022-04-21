@@ -1,2 +1,6 @@
 # https-hnwahmed-got
-git add
+git 
+Pig install git
+Pig bayton
+cd_hnwahmed git
+bathon2 hnwahmed
